@@ -1,0 +1,17 @@
+@page, body, div, img {
+	padding: 0pt;
+	margin:0pt;
+}
+
+body {
+	text-align: center;
+}
+
+toc .level1 {text-indent:  0em;}
+toc .level2 {text-indent:  2em;}
+toc .level3 {text-indent:  4em;}
+toc .level4 {text-indent:  6em;}
+toc .level5 {text-indent:  8em;}
+toc .level6 {text-indent: 10em;}
+toc .level7 {text-indent: 12em;}
+toc .reference {}
